@@ -3,7 +3,7 @@
 ## Smart-Parking Systems Using ESP32 DEV V1
 
 ### Authors
-Shreyas Balihallimath, Jai Surya S, Anurag Senapati
+Jai Surya S, Anurag Senapati, Shreyas Balihallimath,
 
 ## Condensed Abstract
 
